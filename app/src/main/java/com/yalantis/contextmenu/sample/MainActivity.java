@@ -22,6 +22,9 @@ import com.yalantis.contextmenu.lib.MenuObject;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 测试通过
+ */
 public class MainActivity extends ActionBarActivity implements ContextMenuDialogFragment.ItemClickListener {
 
     private FragmentManager fragmentManager;
